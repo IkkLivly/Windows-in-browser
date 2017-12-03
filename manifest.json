@@ -1,0 +1,17 @@
+{
+"name": "Windows ",
+"description": "An Operating system",
+"version": "1.0.0",
+"manifest_version": 2,
+"icons": {
+"128": "windows.png"
+},
+"app": {
+"urls": [
+"file:///home/chronos/u-0587dc50b1d522bba57bced25a96fffdd1039a98/Downloads/windows-github/runtime.cs"
+],
+"launch": {
+"web_url": "file:///home/chronos/u-0587dc50b1d522bba57bced25a96fffdd1039a98/Downloads/windows-github/runtime.cs"
+}
+}
+}
